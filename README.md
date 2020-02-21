@@ -1,2 +1,2 @@
-# My-First-Web-Map-in-Leaflet.js
+# My-First-Web-Map-in-Leaflet
 Unfinished
